@@ -72,7 +72,7 @@
             display: inline-block;
             margin: 10px 10px;
             font-weight: bold;
-            background-color: #5865F2;
+            background-color: #25D366; /* WhatsApp green */
             color: white;
             transition: background-color 0.3s ease;
         }
@@ -136,7 +136,7 @@
             </div>
             <p class="price-display" id="rank-price-display"></p>
             <div class="contact" id="rank-contact">
-                <a href="https://discord.com/users/1310020428579995808" target="_blank">Contact on Discord</a>
+                <a href="https://wa.me/message/2GZG735AETJPI1" target="_blank">Contact on WhatsApp</a>
             </div>
         </div>
 
@@ -177,7 +177,7 @@
             </div>
             <p class="price-display" id="brawler-price-display"></p>
             <div class="contact" id="brawler-contact">
-                <a href="https://discord.com/users/1310020428579995808" target="_blank">Contact on Discord</a>
+                <a href="https://wa.me/message/2GZG735AETJPI1" target="_blank">Contact on WhatsApp</a>
             </div>
         </div>
     </div>
